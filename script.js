@@ -7,11 +7,11 @@ let clickCount = 0;  // 记录点击 No 的次数
 
 // No 按钮的文字变化
 const noTexts = [
-    "Really...?",
-    "Think about it again?",
-    "You must be joking!",
-    "This makes me so sad...",
-    "Do you really not want to be my friend?"
+    "真的…？",
+    "再想想？",
+    "你一定是在开玩笑吧！",
+    "这样我会很难过的…",
+    "你真的不想做我女朋友了吗？"
 ];
 
 // No 按钮点击事件
